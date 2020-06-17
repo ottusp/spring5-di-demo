@@ -1,0 +1,13 @@
+guru:
+  jms:
+    username: JMSOtto
+    password: JMSeuseikodak
+    dburl: JMS.my.url
+
+---
+spring:
+  profiles:ru
+
+guru:
+  jms:
+    username: JMSOttoski
